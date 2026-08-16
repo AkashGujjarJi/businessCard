@@ -23,7 +23,8 @@ body {
   overflow: hidden;
   box-shadow: 10px 10px 20px gray;
   transform: translateY(-5px);
-  transition: transform 0.3s ease
+  transition: transform 0.3s ease;
+  padding: 20px;
 }
 
 h1,
